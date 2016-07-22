@@ -246,7 +246,7 @@ define(function (require, exports, module) {
     
     var _suggestions = [];
     var _createdContextMenuCommands = [];
-    var _createdMenuCommandPrefix = "alice.linguistics.command";
+    var _createdMenuCommandPrefix = "stillat.linguistics.command";
     var _numberOfCreatedMenuCommands = 0;
     var _createdMenuItems = [];
     

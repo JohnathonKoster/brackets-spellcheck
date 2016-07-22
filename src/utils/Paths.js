@@ -59,7 +59,7 @@ define(function (require, exports, module) {
      * @const
      * @type {string}
      */
-    var LINGUISTICS_DICTIONARY_PATH_NAME = "stillat.alice.linguistics-dictionary";
+    var LINGUISTICS_DICTIONARY_PATH_NAME = "stillat.linguistics-dictionary";
     
     /**
      * The Linguistics path name.
@@ -67,7 +67,7 @@ define(function (require, exports, module) {
      * @const
      * @type {string}
      */
-    var LINGUISTICS_PATH_NAME = "stillat.alice.linguistics";
+    var LINGUISTICS_PATH_NAME = "stillat.linguistics";
 
     /**
      * Generates a path for the given name and extension.
