@@ -18,7 +18,7 @@ Download both of the following repositories into your Brackets extensions folder
 * [`brackets/spellcheck`](https://github.com/JohnathonKoster/brackets-spellcheck)
 * [`brackets-spellcheck-dictionaries`](https://github.com/JohnathonKoster/brackets-spellcheck-dictionaries)
 
-You will *have* to restart Brackets after you do this. Don't argue. Anyways.
+You will *have* to restart Brackets after you do this.
 
 Assuming everything has gone to plan, you will see a new item in the lower right hand corner of the status bar. By default it says something like `English (United States)`. This is the main UI component that lets you change dictionaries, disable/enable the spell checker and configure the default languages.
 
