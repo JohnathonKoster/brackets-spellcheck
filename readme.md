@@ -13,6 +13,8 @@ Linguistics adds a very powerful spell checking system to the Brackets editor. I
 
 ## How to Make it Work
 
+> Very a detailed walkthrough, check out the guide on the [Stillat](https://stillat.com) website at [https://stillat.com/blog/2017/10/31/installing-linguistics-for-adobe-brackets](https://stillat.com/blog/2017/10/31/installing-linguistics-for-adobe-brackets)
+
 Download both of the following repositories into your Brackets extensions folder. If you don't know where that it is, simply go to Help > Show Extensions Folder in Brackets.
 
 * [`brackets/spellcheck`](https://github.com/JohnathonKoster/brackets-spellcheck)
